@@ -3,7 +3,10 @@
     "allow": [
       "Bash(python:*)",
       "Bash(which pandoc:*)",
-      "Bash(pandoc:*)"
+      "Bash(pandoc:*)",
+      "Bash(python3:*)",
+      "Bash(py:*)",
+      "Bash(ls:*)"
     ]
   }
 }
